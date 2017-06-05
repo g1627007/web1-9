@@ -8,6 +8,8 @@
 
 /* main */
 body{
+  background-image: url(../img/neko1.png),url(../img/neko2.jpg);
+  background-repeat:no-repeat,no-repeat;
   background-color: lightgrey;
   margin: 5px;
 }
