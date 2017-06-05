@@ -24,6 +24,7 @@ body{
 /* box-shadow */
 #box-shadow{
   background-color: white;
+  opacity: 0.5;
   font-size: 30px; /*文字を大きくする*/
 }
 .box-drop_shadow{box-shadow:  2px  2px  5px gray;
